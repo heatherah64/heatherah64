@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Thank you for checking out my personal GitHub! I'm a second year computer science student at Georgia Tech, concentrating in media and information internetworks. I'm interested in web development and app development. Currently, I'm working on my personal website and a debt tracker app for Android.
-
 - hhernandez@gatech.edu
 - [linkedin.com/in/heatherah64](https://www.linkedin.com/in/heatherah64/)
 
