@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - hhernandez@gatech.edu
 - [linkedin.com/in/heatherah64](https://www.linkedin.com/in/heatherah64/)
 
